@@ -1,7 +1,7 @@
 {
   "development": {
-    "username": "root",
-    "password": "qwerty123(@)",
+    "username": "xxxx",
+    "password": "xxxx",
     "database": "development_ecom",
     "host": "127.0.0.1",
     "dialect": "mysql"
